@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab3\lab interfaces and abstract classes\lab interfaces and abstract classes\bin\Debug\lab interfaces and abstract classes.exe.config
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab3\lab interfaces and abstract classes\lab interfaces and abstract classes\bin\Debug\lab interfaces and abstract classes.exe
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab3\lab interfaces and abstract classes\lab interfaces and abstract classes\bin\Debug\lab interfaces and abstract classes.pdb
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab3\lab interfaces and abstract classes\lab interfaces and abstract classes\obj\Debug\lab interfaces and abstract classes.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab3\lab interfaces and abstract classes\lab interfaces and abstract classes\obj\Debug\lab interfaces and abstract classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab3\lab interfaces and abstract classes\lab interfaces and abstract classes\obj\Debug\lab interfaces and abstract classes.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab3\lab interfaces and abstract classes\lab interfaces and abstract classes\obj\Debug\lab interfaces and abstract classes.exe
+C:\Users\USER\Desktop\CPRG-211_Object-Oriented Programming 2\lab3\lab interfaces and abstract classes\lab interfaces and abstract classes\obj\Debug\lab interfaces and abstract classes.pdb
